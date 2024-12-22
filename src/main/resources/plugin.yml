@@ -1,0 +1,7 @@
+name: StormAPI
+version: 1.0
+main: me.levansj01.storm.api.StormAPI
+api-version: 1.13
+authors: [Aimwhere]
+description: API for Storm anticheat, brought to you by Aimwhere
+website: www.stormss.cc
